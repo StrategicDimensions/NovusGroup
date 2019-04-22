@@ -2,7 +2,7 @@
 
 {
     'name': 'Ticket No Followers',
-    'version': '1.0.0',
+    'version': '1.1.0',
     'category': 'CRM',
     'summary': 'Ticket No Followers',
     'author': "Strategic Dimensions",
