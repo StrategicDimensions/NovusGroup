@@ -3,7 +3,7 @@
 {
     'name': 'Ticket No Followers',
     'version': '1.1.0',
-    'category': 'CRM',
+    'category': 'After-Sales',
     'summary': 'Ticket No Followers',
     'author': "Strategic Dimensions",
     'website': 'www.strategicdimensions.co.za',
